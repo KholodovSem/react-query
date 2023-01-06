@@ -1,0 +1,115 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark"
+    },
+    {
+      "name": "Flash",
+      "alterEgo": "Soso Pavliashvili",
+      "id": 5
+    },
+    {
+      "name": "Sem Kholodov",
+      "alterEgo": "Soso Pavliashvili",
+      "id": 6
+    },
+    {
+      "name": "dsa",
+      "alterEgo": "das",
+      "id": 7
+    },
+    {
+      "name": "dsaas",
+      "alterEgo": "dasdas",
+      "id": 8
+    },
+    {
+      "name": "dasda",
+      "alterEgo": "dasdasd",
+      "id": 9
+    },
+    {
+      "name": "sdadas",
+      "alterEgo": "dasdasd",
+      "id": 10
+    },
+    {
+      "name": "sdadas111",
+      "alterEgo": "dasdasd",
+      "id": 11
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Sem"
+    },
+    {
+      "id": 2,
+      "name": "Oliver"
+    },
+    {
+      "id": 3,
+      "name": "Rachel"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@example.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    }
+  ]
+}
